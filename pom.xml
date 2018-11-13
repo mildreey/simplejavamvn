@@ -12,7 +12,7 @@
     <repository>
       <id>releases</id>
       <!-- CHANGE HERE by your team nexus server -->
-      <url>http://localhost:8081/nexus/content/repositories/thirdparty/</url>
+      <url>http://localhost:8081/repository/maven-central/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
