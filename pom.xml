@@ -17,7 +17,7 @@
     <snapshotRepository>
       <id>snapshots</id>
       <!-- CHANGE HERE by your team nexus server -->
-      <url>http://localhost:8081/repository/migrupoprueba/snapshot/</url>
+      <url>http://localhost:8081/repository/migrupoprueba/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   
