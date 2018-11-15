@@ -12,12 +12,12 @@
     <repository>
       <id>releases</id>
       <!-- CHANGE HERE by your team nexus server -->
-      <url>http://localhost:8081/repository/proyectomvn2/</url>
+      <url>http://localhost:8081/repository/migrupoprueba/releases/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
       <!-- CHANGE HERE by your team nexus server -->
-      <url>http://localhost:8081/repository/RepositorioMvn1/</url>
+      <url>http://localhost:8081/repository/migrupoprueba/snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
   
